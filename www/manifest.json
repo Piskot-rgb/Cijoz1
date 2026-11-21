@@ -1,0 +1,7 @@
+{
+  "name": "KiloForm",
+  "short_name": "KiloForm",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
