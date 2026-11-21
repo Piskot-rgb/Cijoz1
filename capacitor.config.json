@@ -1,0 +1,6 @@
+{
+  "appId": "com.kiloform.app",
+  "appName": "KiloForm",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
